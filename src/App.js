@@ -6,7 +6,7 @@ function App() {
 
       <p>salam</p>
 
-      <p>ho ho</p>
+      <p>hoho hoo</p>
       
     </div>
   );
